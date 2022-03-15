@@ -77,7 +77,7 @@ public class aluno {
 			return "Aprovado";
 		}
 		else {
-			return "Recuperação";
+			return "RecuperaÃ§Ã£o";
 		}
 		
 	}
@@ -91,7 +91,7 @@ public class aluno {
 			return "Aprovado";
 		}
 		else {
-			return "Reporvado";
+			return "Reprovado";
 		}
 	}
 	}
